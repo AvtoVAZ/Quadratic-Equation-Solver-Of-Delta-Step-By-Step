@@ -13,6 +13,7 @@ diakrinousa4 = ((diakrinousa1) - (diakrinousa3))
 print("Δ = (",(diakrinousa1),") - 4 * (",(diakrinousa2),")")
 print("Δ = (",(diakrinousa1),") - (",diakrinousa3,")")
 print("Δ = (",diakrinousa4,")")
-
+#Made by Avtovaz
+#My GitHub: https://github.com/AvtoVAZ
 
 
